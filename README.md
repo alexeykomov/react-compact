@@ -7,7 +7,7 @@ This is a combination of fantastic tools such as [plovr](https://github.com/miha
 
 Run
 ---
-1. `npm run serve`
+1. `npm run build && npm run serve`
 2. `python -m SimpleHTTPServer`
 3. Visit [http://localhost:8000](http://localhost:8000)
 
